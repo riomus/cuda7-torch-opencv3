@@ -1,1 +1,1 @@
-# Docker image for Torch+CUDA+OpencV
+# Docker image for Torch+CUDA+OpenCV
